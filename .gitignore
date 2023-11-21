@@ -2,7 +2,7 @@ out/
 .idea/
 *.csv
 *.json
-*.xml
+
 *.iml
 
 
@@ -72,3 +72,4 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 /test.txt
+/src/main/webapp/WEB-INF/web.xml
